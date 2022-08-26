@@ -12,9 +12,9 @@ It is created using the **C programming Language** with multiple functionalities
                                                                                                                
 > **Step 1:** Clone our repository using this command, (you need to have git installed on your machine first)                                                   
 ````                                                                                                                                                            
-git clone https://github.com/A-OT/simple_shell                                                                                                                  
+git clone https://github.com/shahTanya/simple_shell                                                                                                                  
 ````                                                                                                                                                            
-> **Step 2:** Change directory to simple_shell:                                                                                                                 
+> **Step 2:** Navigate into the simple_shell directory:                                                                                                                 
 ````                                                                                                                                                            
 cd simple_shell                                                                                                                                                 
 ````                                                                                                                                                            
